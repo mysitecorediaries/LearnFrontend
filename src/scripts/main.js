@@ -1,7 +1,9 @@
 function showMessage() {
-  console.log("Button clicked!"); // Watch in DevTools Console
-  debugger; // Pause here if DevTools is open
+  //console.log("Button clicked!"); // Watch in DevTools Console
+//  debugger; // Pause here if DevTools is open
 
+alert("Showing result of '10' > 2 ")
+alert('10' > 2)
 
   alert("Hello");
 
